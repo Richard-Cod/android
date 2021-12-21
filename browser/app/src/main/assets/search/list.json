@@ -1,0 +1,11 @@
+{
+  "default": {
+    "searchDefault": "mayyan",
+    "searchOrder": ["DuckDuckGo", "Google", "Bing"],
+    "visibleDefaultEngines": [
+        "mayyan"
+    ]
+  },
+  "regionOverrides": {},
+  "locales": {}
+}
